@@ -1,4 +1,4 @@
-# Complete-Enterprise-IT-Infrastructure-Project
+# Design-and-Deployment-of-Complete-Enterprise-IT-Infrastructure-Project
 
 ## Project Overview
 This project demonstrates the design and implementation of a complete enterprise IT infrastructure for Contoso Company. The infrastructure was built using **VMware Workstation Pro**, **Windows Server 2019**, and **Windows 10** client machines. The main goals were to ensure **centralized management, secure communication, automated services, and high availability** for daily operations and future expansion.
